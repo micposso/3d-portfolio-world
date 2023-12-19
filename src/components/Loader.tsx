@@ -5,7 +5,6 @@ const Loader = () => {
     // need to use drei to be able to render this inside the canvas
     <Html>
       <div>Loader</div>
-
     </Html>
   )
 }
